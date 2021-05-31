@@ -137,8 +137,8 @@ check-ports
 
 
 
-#get-org-information 
-#execute-sublist3r
+get-org-information 
+execute-sublist3r
 
 
 
